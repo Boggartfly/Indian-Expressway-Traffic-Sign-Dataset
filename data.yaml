@@ -1,0 +1,6 @@
+train: ../train/
+val: ../validation/
+test: ../test/
+
+nc: 21
+names: ['Ahead only','Bump','Car Speed 100','Danger','Go Slow','Lane sign','Left Curve','No Passing','No Stopping','No U Turn','No Waiting','Phone','Right Curve','Speed 100','Speed 30','Speed 50','Speed 80','Steep decent','Truck Speed 80','Tunnel','Work in Progress']
